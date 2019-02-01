@@ -1,14 +1,14 @@
 {
-  "main.css": "/test-awesome-1/static/css/main.a8cd65c0.chunk.css",
-  "main.js": "/test-awesome-1/static/js/main.b20856d4.chunk.js",
-  "main.js.map": "/test-awesome-1/static/js/main.b20856d4.chunk.js.map",
+  "main.css": "/test-awesome-1/static/css/main.18563557.chunk.css",
+  "main.js": "/test-awesome-1/static/js/main.6214ec37.chunk.js",
+  "main.js.map": "/test-awesome-1/static/js/main.6214ec37.chunk.js.map",
   "static/js/1.fa92c112.chunk.js": "/test-awesome-1/static/js/1.fa92c112.chunk.js",
   "static/js/1.fa92c112.chunk.js.map": "/test-awesome-1/static/js/1.fa92c112.chunk.js.map",
   "runtime~main.js": "/test-awesome-1/static/js/runtime~main.297a6460.js",
   "runtime~main.js.map": "/test-awesome-1/static/js/runtime~main.297a6460.js.map",
   "static/media/logo.svg": "/test-awesome-1/static/media/logo.5d5d9eef.svg",
-  "static/css/main.a8cd65c0.chunk.css.map": "/test-awesome-1/static/css/main.a8cd65c0.chunk.css.map",
+  "static/css/main.18563557.chunk.css.map": "/test-awesome-1/static/css/main.18563557.chunk.css.map",
   "index.html": "/test-awesome-1/index.html",
-  "precache-manifest.87a00d7b7de47f840c9f8871999b0583.js": "/test-awesome-1/precache-manifest.87a00d7b7de47f840c9f8871999b0583.js",
+  "precache-manifest.d8d6d21c7d94619740d111bc315320d2.js": "/test-awesome-1/precache-manifest.d8d6d21c7d94619740d111bc315320d2.js",
   "service-worker.js": "/test-awesome-1/service-worker.js"
 }
